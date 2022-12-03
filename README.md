@@ -6,6 +6,7 @@
 
 ![PatryQHyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatryQHyper&count_private=true&show_icons=true&theme=radical)
 
+![Wakatime stats](https://wakatime.com/share/@PatryQHyper/56af79e8-6522-428e-b09f-7f14bd7f61bd.png)
 
 <!--
 **PatryQHyper/PatryQHyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
