@@ -2,7 +2,7 @@
 
 ⚡ PHP Backend developer
 
-🌱 Website: https://patryqhyper.pl
+🌱 Website: https://wizjoner.dev
 
 🔭 Currently working on: https://spaceis.pl and https://network.wizjoner.dev
 
