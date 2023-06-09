@@ -7,7 +7,7 @@
 🔭 Currently working on: https://spaceis.pl and https://network.wizjoner.dev
 
 📫Email: kontakt@wizjoner.dev
-📫Discord: Patryk Wizjoner#3748
+📫Discord: wizjoner
 
 ![PatryQHyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatryQHyper&count_private=true&show_icons=true&theme=radical)
 
