@@ -4,7 +4,7 @@
 
 🌱 Website: https://wizjoner.dev
 
-🔭 Currently working on: https://spaceis.pl and https://network.wizjoner.dev
+🔭 Currently working on: https://spaceis.pl
 
 📫Email: kontakt@wizjoner.dev
 📫Discord: wizjoner
