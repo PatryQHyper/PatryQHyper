@@ -8,7 +8,7 @@
 
 📫Discord: wizjoner
 
-Currently working at SimPay.pl
+Currently working on https://simpay.pl and https://streampay.pl
 
 ![PatryQHyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatryQHyper&count_private=true&show_icons=true&theme=radical)
 
